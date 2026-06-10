@@ -8,7 +8,7 @@
 
 ---
 
-Welcome. I am Deonte. I am a PMP certified project manager with a background in operations and leadership. I am building real cloud fluency through WGU, hands-on projects, and cloud adjacent work that helps me understand how modern systems operate. I am also developing an interest in Agentic AI as I learn more about what is possible beyond traditional coding. I enjoy creating systems that make work easier and sharing the journey as I grow. Welcome to my space.
+Welcome. I am Deonte. I am a PMP certified project manager with a background in operations and leadership. I am building real cloud fluency through WGU, hands-on projects, and cloud adjacent work that helps me understand how modern systems operate. I am also developing an interest in Agentic AI as I learn more about what is possible beyond traditional coding. I enjoy creating systems that make work easier and sharing the journey as I grow. 
 
 ---
 
