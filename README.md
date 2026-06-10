@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Deonte Thompson</h1>
   <p><strong>PMP Certified Project Manager &nbsp;·&nbsp; Cloud Builder &nbsp;·&nbsp; Agentic AI Explorer</strong></p>
-  <a href="https://www.linkedin.com/in/deontethompson">
+  <a href="https://www.linkedin.com/in/deontet">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 </div>
